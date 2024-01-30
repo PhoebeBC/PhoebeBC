@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhoebeBC (Phoebe Badcock).
-- 👀 I’m interested in building useful applications to solve real world problems.
-- 🌱 I’m currently learning anything software to understand the tools available to create solutions.
-- 💞️ I’m not looking to collaborate currently.
+- 👀 I’m interested in learning anything software related, especially areas that can be used to solve real world problems directly.
+- 🌱 I’m currently developing my own projects to gain experiance in programming, version control and agile methodology.
+- 💞️ I’m not looking to collaborate but open to the opportunity.
 - 📫 How to reach me: please email me on phoebe.badcock@mail.com
 
 <!---
